@@ -1,0 +1,72 @@
+{
+    "Diacetone alcohol": [
+        {
+            "cid": 31256,
+            "ghs_classification": "GHS Classification: Irritant ",
+            "health_hazard": "Vapor is irritating to the mucous membrane of the eye and respiratory tract. Inhalation can cause dizziness, nausea, some anesthesia. Very high concentrations have a narcotic effect. The liquid is not highly irritating to the skin but can cause dermatitis. (USCG, 1999)"
+        }
+    ],
+    "Phenoxyethanol": [
+        {
+            "cid": 31236,
+            "ghs_classification": "GHS Classification: Irritant ",
+            "health_hazard": "May cause moderate eye irritation and moderate corneal injury. Excessive exposure may cause skin irritation and hemolysis. (USCG, 1999)"
+        }
+    ],
+    "Sodium laureth sulfate": [
+        {
+            "cid": 23665884,
+            "ghs_classification": "GHS Classification: Corrosive Irritant ",
+            "health_hazard": "There are no records of health hazard information so that it may not be dangerous, please look at other professional resources "
+        }
+    ],
+    "Salicylic acid": [
+        {
+            "cid": 338,
+            "ghs_classification": "GHS Classification: Corrosive Irritant Health Hazard ",
+            "health_hazard": "Inhalation of dust irritates nose and throat. Vomiting may occur spontaneously if large amounts are swallowed. Contact with eyes causes irritation, marked pain, and corneal injury which should heal. Prolonged or repeated skin contact may cause marked irritation or even a mild burn. (USCG, 1999)"
+        }
+    ],
+     "Oxybenzone": [
+        {
+            "cid": 4632,
+            "ghs_classification": "GHS Classification: Irritant Environmental Hazard ",
+            "health_hazard": "SYMPTOMS: Symptoms of exposure to this compound may include contact dermatitis and urticaria. It may also cause irritation.  ACUTE/CHRONIC HAZARDS: This compound may cause irritation. When heated to decomposition it emits acrid smoke and irritating fumes. (NTP, 1992)"
+        }
+    ],
+     "Formaldehyde": [
+        {
+            "cid": 712,
+            "ghs_classification": "GHS Classification: Corrosive Acute Toxic Irritant Health Hazard ",
+            "health_hazard": "Exposure Routes: inhalation, skin and/or eye contact  Symptoms: Irritation eyes, nose, throat, respiratory system; lacrimation (discharge of tears); cough; wheezing; [potential occupational carcinogen]  Target Organs: Eyes, respiratory system (NIOSH, 2016)"
+        }
+    ],
+    "Retinyl acetate": [
+        {
+            "cid": 638034,
+            "ghs_classification": "GHS Classification: Irritant Health Hazard ",
+            "health_hazard": "There are no records of health hazard information so that it may not be dangerous, please look at other professional resources "
+        }
+    ],
+    "Sodium chloride": [
+        {
+            "cid": 5234,
+            "ghs_classification": "GHS Classification: Irritant ",
+            "health_hazard": "SYMPTOMS: Ingestion of this compound may cause nausea, vomiting, diarrhea, muscular twitching, inflammation of the gastrointestinal tract, dehydration and congestion (dehydration and congestion can occur in most internal organs, particularly the meninges and brain). Death may occur from respiratory failure secondary to an acute encephalopathy.  ACUTE/CHRONIC HAZARDS: This compound may cause eye irritation. When heated to decomposition it emits toxic fumes. (NTP, 1992)"
+        }
+    ],
+    "Benzene": [
+        {
+            "cid": 241,
+            "ghs_classification": "GHS Classification: Flammable Irritant Health Hazard ",
+            "health_hazard": "Dizziness, excitation, pallor, followed by flushing, weakness, headache, breathlessness, chest constriction, nausea, and vomiting. Coma and possible death. (USCG, 1999)"
+        }
+    ],
+    "Aflatoxin B1": [
+        {
+            "cid": 186907,
+            "ghs_classification": "GHS Classification: Acute Toxic Health Hazard ",
+            "health_hazard": "SYMPTOMS: This compound may cause hepatic damage and Reye's syndrome. It may also cause death from acute hepatic disease.  ACUTE/CHRONIC HAZARDS: This compound may be fatal if inhaled, swallowed or absorbed through skin. It may cause irritation. When heated to decomposition it may emit toxic fumes of carbon monoxide and carbon dioxide. (NTP, 1992)"
+        }
+    ]
+}
