@@ -1,3 +1,9 @@
 ## backend code of the Chem_aware app
 
-### Before you download, make sure that you have installed the following libraries:
+### Please make sure that you have installed the following libraries before running the code:
+- re
+- requests
+- json
+- pubchempy
+- smptlib
+- ssl
